@@ -1,7 +1,7 @@
-baseURL = "https://demo.gethugothemes.com/meghna/test-Damour/"
+baseURL = "https://demo.gethugothemes.com/meghnatest-Damour/"
 disableLanguages = []
 disqusShortname = ""
-paginate = "6"
+paginate = "15"
 summaryLength = "15"
 theme = "meghna-hugo"
 title = "Meghna"
