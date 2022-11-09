@@ -1,4 +1,4 @@
-baseURL = "https://demo.gethugothemes.com/meghnatest-Damour/"
+baseURL = "https://meghnatest-damour.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "15"
