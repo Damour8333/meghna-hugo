@@ -24,3 +24,4 @@ fields:
   description: meta description
 pages:
 - exampleSite/content/english/blog/bonjour-les-gens.md
+- exampleSite/content/english/blog/bonjour.md
